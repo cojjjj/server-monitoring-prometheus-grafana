@@ -72,5 +72,5 @@ The monitoring stack uses a 15-second scrape interval and collects metrics from:
 
 ## Project URL
 
-https://github.com/cojjjjj/server-monitoring-prometheus-grafana
+https://roadmap.sh/projects/monitoring
 
